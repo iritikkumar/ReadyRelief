@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button, Form, Input } from 'antd';
 
-function donationForm() {
+function DonationForm() {
   const onFinish = (values) => {
     console.log('Received values of form: ', values);
   };
@@ -33,4 +33,4 @@ function donationForm() {
   )
 }
 
-export default donationForm;
+export default DonationForm;

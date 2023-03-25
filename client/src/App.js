@@ -1,4 +1,5 @@
 import './App.css';
+import Donation from './pages/Donation';
 import Login from './pages/Login';
 import Register from "./pages/Register"
 
@@ -8,7 +9,8 @@ function App() {
     // <h1>Hello</h1>
     // </div>
     // <Login/>
-    <Register/>
+    // <Register/>
+    <Donation/>
 
   );
 }

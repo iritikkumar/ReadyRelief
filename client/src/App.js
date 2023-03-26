@@ -6,19 +6,6 @@ import RegisterUser from "./pages/RegisterUser"
 import RegisterHospital from "./pages/RegisterHospital"
 import Home from "./pages/Home"
 
-// function App() {
-//   return (
-//     // <Login/>
-//     // <Register/>
-//     <Donation/>
-//     // <Home/>
-
-//   );
-// }
-
-// export default App;
-
-
 function App() {
     return (
       <div>
